@@ -59,3 +59,5 @@ Purpose of These Assumptions
 	•	Simplifies model building for a student project while still being realistic enough for ML, Power BI dashboarding, and storytelling.
 	•	Provides a baseline for predictive modeling: you can apply logistic regression, decision trees, XGBoost, or other classifiers.
 	•	Serves as a proof-of-concept dataset to illustrate how airlines or MRO providers might predict and reduce AOG events.
+
+ 
